@@ -1,0 +1,34 @@
+h1{
+    color: #f10a02;
+    
+}
+
+.mor{
+    color: #641aee;
+}
+
+.orta{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    
+}
+
+.ozel{
+    
+    width: 100px;
+    margin:auto;
+   
+}
+
+.list{
+    position: relative;
+    right: 29px;
+    list-style-position: inside;
+}
+
+.sol{
+    text-align: left;
+}
